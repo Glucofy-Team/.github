@@ -3,7 +3,7 @@
 <p>Feel Good, Live Well, Glucofy</p>
 
 <div align="center">
-<img src="img/Glucofy-Logo.png" width=400px>
+<img src="../img/logo.png" width=400px>
 </div>
 
 <!--
@@ -12,7 +12,7 @@
 <p align="justify">As a final result, we made an Android Application that will help diabetes people.</p>
 -->
 
-## Team Members | CH23-XXXXX
+## Team Members | C241-PS166
 
 |                                                Name                                                 |  Student ID  |        Path        |
 | :-------------------------------------------------------------------------------------------------- | :----------: | :----------------: |
