@@ -3,7 +3,7 @@
 <p>Feel Good, Live Well, Glucofy</p>
 
 <div align="center">
-<img src="../img/logo.png" width=400px>
+<img src="img/logo.png" width=400px>
 </div>
 
 <!--
