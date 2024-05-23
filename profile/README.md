@@ -14,12 +14,18 @@
 
 ## Team Members | C241-PS166
 
-|                                                Name                                                 |  Student ID  |        Path        |
-| :-------------------------------------------------------------------------------------------------- | :----------: | :----------------: |
-| <a href="https://www.linkedin.com/in/bryan-dewawicaksana/">Bryan Dewa Wicaksana</a>                 | M288D4KY3223 |  Machine Learning  |
-| <a href="https://www.linkedin.com/in/sammytha/">Sammytha Br Siagian</a>                             | M319D4KX1683 |  Machine Learning  |
-| <a href="https://www.linkedin.com/in/shinta-fadhilatus-397319235/">Shinta Fadhilatus Syahidah</a>   | M279D4KX2284 |  Machine Learning  |
-| <a href="https://www.linkedin.com/in/indrayyana/">I Gede Indra Adnyana</a>                          | C113D4KY1162 |  Cloud Computing   |
-| <a href="https://www.linkedin.com/in/allegrasantoso/">Allegra Fernanda Santoso</a>                  | C006D4KY0734 |  Cloud Computing   |
-| <a href="https://www.linkedin.com/in/ananta-weda-5a62092a4/">Nyoman Ananta Weda Kesawa</a>          | A113D4KY4026 | Mobile Development |
-| <a href="https://www.linkedin.com/in/nicholas-yang925/">Nicholas Yang</a>                           | A319D4KY4258 | Mobile Development |
+|                                                Name                                                 |  Student ID  |        Path        | 
+| :-------------------------------------------------------------------------------------------------- | :----------: | :----------------: | 
+| <a href="https://www.linkedin.com/in/bryan-dewawicaksana/">Bryan Dewa Wicaksana</a>                 | M288D4KY3223 |  Machine Learning  |   
+| <a href="https://www.linkedin.com/in/sammytha/">Sammytha Br Siagian</a>                             | M319D4KX1683 |  Machine Learning  |   
+| <a href="https://www.linkedin.com/in/shinta-fadhilatus-397319235/">Shinta Fadhilatus Syahidah</a>   | M279D4KX2284 |  Machine Learning  |    
+| <a href="https://www.linkedin.com/in/indrayyana/">I Gede Indra Adnyana</a>                          | C113D4KY1162 |  Cloud Computing   |   
+| <a href="https://www.linkedin.com/in/allegrasantoso/">Allegra Fernanda Santoso</a>                  | C006D4KY0734 |  Cloud Computing   |   
+| <a href="https://www.linkedin.com/in/ananta-weda-5a62092a4/">Nyoman Ananta Weda Kesawa</a>          | A113D4KY4026 | Mobile Development |  
+| <a href="https://www.linkedin.com/in/nicholas-yang925/">Nicholas Yang</a>                           | A319D4KY4258 | Mobile Development |         
+
+## Repositories
+You can check out the repositories for each learning path at the links below: 
+- [Machine Learning](https://github.com/Glucofy-Team/Glucofy-Machine-Learning)  
+- [Cloud Computing](https://github.com/Glucofy-Team/Glucofy-Cloud-Computing)
+- [Mobile Development](https://github.com/Glucofy-Team/Glucofy-Mobile-Development)
