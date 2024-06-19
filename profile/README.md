@@ -3,7 +3,7 @@
 <p>Feel Good, Live Well, Glucofy</p>
 
 <div align="center">
-<img src="https://github.com/Glucofy-Team/.github/blob/main/profile/img/logo.png" width=400px>
+<img src="https://github.com/Glucofy-Team/.github/blob/main/profile/img/logo.png" width=300px>
 </div>
 
 <!--
