@@ -1,6 +1,6 @@
 # GLUCOFY
 
-<p>Feel Good, Live Well, Glucofy</p>
+<b>Top 50 Teams from Product Capstone Track `Bangkit Academy 2024`</b>
 
 <div align="center">
 <img src="https://github.com/Glucofy-Team/.github/blob/main/profile/img/logo.png" width=300px>
