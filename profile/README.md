@@ -1,6 +1,6 @@
 # GLUCOFY
 
-<b>Top 50 Teams from Product Capstone Track at `Bangkit Academy 2024`</b>
+### Top 50 Teams from Product Capstone Track at `Bangkit Academy 2024`
 
 <div align="center">
 <img src="https://github.com/Glucofy-Team/.github/blob/main/profile/img/logo.png" width=300px>
